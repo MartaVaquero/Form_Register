@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExerciceJose</string>
+    <string name="formulario">Registro</string>
+    <string name="hint">Introduce aquí tu nombre!</string>
+    <string name="titulo">Registro</string>
+    <string name="name">Nombre</string>
+    <string name="surname">Apellidos</string>
+    <string name="email">Email</string>
+    <string name="password">Crea tu contrasena</string>
+    <string name="phone">Número de celular</string>
+    <string name="city">Selecciona tu ciudad</string>
+    <string name="register">Registrarse</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="terms_conditions">Al continuar, aceptas nuestra Política de privacidad</string>
+    <string-array name="cities">Selecciona tu ciudad
+        <item>Madrid</item>
+        <item>Buenos Aires</item>
+    </string-array>
+</resources>
